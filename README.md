@@ -1,0 +1,2 @@
+# simple_net8_api_rawsql_efcore
+ simple_net8_api_rawsql_efcore
